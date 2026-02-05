@@ -11,7 +11,7 @@ A real-time prompt security firewall that intercepts, analyzes, sanitizes, and c
 - **Sanitization**: Automatic removal of malicious content from suspicious prompts
 - **Futuristic UI**: Cyberpunk-style interface with real-time visualization
 
-## Project Structure
+## Project Structure 
 
 ```
 /backend
